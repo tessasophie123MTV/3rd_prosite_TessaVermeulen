@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../avans/prosite"
+		},
+		{
+			"path": "../../../../avans/fansite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fansite"
+	}
+}
